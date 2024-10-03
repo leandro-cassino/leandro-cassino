@@ -14,6 +14,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge3h228&theme=calm&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge3h228&layout=compact&theme=calm&bg_color=000&border_color=64d22d&title_color=64d22d&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandro-cassino&theme=calm&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-cassino&layout=compact&theme=calm&bg_color=000&border_color=64d22d&title_color=64d22d&text_color=FFF)
 
