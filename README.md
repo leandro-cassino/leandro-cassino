@@ -3,7 +3,7 @@
 # LEANDRO CASSINO
 
 ## Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/leandro_cassino/profilecard/?igsh=b3ZmbzliNDE5Y2Rk)
+[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/leandro_cassino)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ## Habilidades
