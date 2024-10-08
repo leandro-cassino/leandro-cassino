@@ -4,7 +4,7 @@
 
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/leandro_cassino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-cassino-63b57827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Habilidades
 <div style="display: inline_block"><br>
